@@ -1,0 +1,11 @@
+MANIFEST.in
+setup.cfg
+setup.py
+ISStreamer/Streamer.py
+ISStreamer/__init__.py
+ISStreamer/configutil.py
+ISStreamer/version.py
+ISStreamer.egg-info/PKG-INFO
+ISStreamer.egg-info/SOURCES.txt
+ISStreamer.egg-info/dependency_links.txt
+ISStreamer.egg-info/top_level.txt
